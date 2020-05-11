@@ -1,2 +1,2 @@
-# Learning-MVP
-Simple MVP code architecture implementation
+# Development-Framework
+Library for rapid development of android projects
